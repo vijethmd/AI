@@ -78,6 +78,6 @@ KB = [
 ]
 
 if resolution(KB, ("Likes",("John","Peanuts"))):
-    print("Conclusion: John likes peanuts ✅")
+    print("Conclusion: John likes peanuts ")
 else:
     print("Could not prove the statement.")
